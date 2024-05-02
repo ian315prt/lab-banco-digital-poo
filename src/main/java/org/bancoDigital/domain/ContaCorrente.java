@@ -1,14 +1,10 @@
 package org.bancoDigital.domain;
 
 public class ContaCorrente extends Conta {
-    private static int tipoDeConta = 2;
+    private static final int TIPO_DE_CONTA = 2;
 
-    public ContaCorrente(Cliente cliente, Conta conta) {
-        super(cliente);
-    }
-
-    public static int getTipoDeConta() {
-        return tipoDeConta;
+    public ContaCorrente(Cliente cliente) {
+        super(cliente, TIPO_DE_CONTA);
     }
 
     public void setSaldo(double valorTransferencia) {

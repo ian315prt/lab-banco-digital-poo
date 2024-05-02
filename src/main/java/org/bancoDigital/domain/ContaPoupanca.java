@@ -1,21 +1,9 @@
 package org.bancoDigital.domain;
 
 public class ContaPoupanca extends Conta{
-    private static int tipoDeConta = 2;
+    private static final int TIPO_DE_CONTA = 1;
 
     public ContaPoupanca(Cliente cliente) {
-        super(cliente);
-    }
-
-    public static int getTipoDeConta() {
-        return tipoDeConta;
-    }
-
-    public static void setTipoDeConta(int tipoDeConta) {
-        ContaPoupanca.tipoDeConta = tipoDeConta;
-    }
-
-    public void setSaldo(double valorTransferencia) {
-        saldo = valorTransferencia;
+        super(cliente, TIPO_DE_CONTA);
     }
 }

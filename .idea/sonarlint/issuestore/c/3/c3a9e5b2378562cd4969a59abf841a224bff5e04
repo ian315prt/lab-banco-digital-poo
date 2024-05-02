@@ -1,10 +1,9 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ìªı°ùÿÿÿÿ8¦åŒÁñ1J$dc96264b-15d4-472a-bfaa-ac5da04eb685
-É
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©ÚÊÌşÿÿÿÿ8¨åŒÁñ1J$3351af14-6718-43a9-90dd-37f67a4ac444
-É
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ïÄ—Ìüÿÿÿÿ8¨åŒÁñ1J$68a38f24-2531-4782-9024-fa982fe303d7
-É
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼³˜öüÿÿÿÿ8¨åŒÁñ1J$c9faf201-f300-4d00-83a7-59b4acace543
-Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‡Üº¬8¨åŒÁñ1J$c3b1afca-439e-4744-9c7c-534ce1523eee
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ìªı°ùÿÿÿÿ8Å Öó1J$e6375e88-20ad-403f-8728-f88f5c5626c5
+m	java:S106"+Replace this use of System.out by a logger.(ıüŞÓ8Ìû¾Öó1J$9446272a-79cf-449d-bce4-7e7c122025d5
+m	java:S106"+Replace this use of System.out by a logger.(îÊ´¡8Íû¾Öó1J$0b15506b-774b-48c4-9600-e746414555ad
+m	java:S106"+Replace this use of System.out by a logger.(ÁŸÀ£8Íû¾Öó1J$aa4f7c78-967d-4ae6-89ee-8cbbc8aebc9d
+m	java:S106"+Replace this use of System.out by a logger.(…œ©ş8Íû¾Öó1J$b8a4a07d-ae6c-40ff-a1df-9e4e1f758336
+r	java:S106"+Replace this use of System.out by a logger.(–ÁÅİûÿÿÿÿ8¬‚éÖó1J$82d16b67-04f7-4b34-b50b-9151045f283c
+€
+java:S1068"8Remove this unused "contaPoupancaService" private field.(Ñ‰Æ×ÿÿÿÿÿ8‘ºáÖó1J$0d54a515-bbd7-40a9-866e-2d89c063b6f1

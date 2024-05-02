@@ -3,13 +3,11 @@ package org.bancoDigital.domain;
 import org.bancoDigital.domain.Conta;
 
 public interface IConta {
-    public void sacar(double valor);
+    void sacar(Conta conta, double valor);
 
-    public void depositar(double valor);
+    void depositar(Conta remetente, double valor);
 
-    public void transferir(double valor, Conta contaDestino);
+    void transferir(Conta remetente, double valor, Conta contaDestino);
 
-    public void imprimirExtrato();
-
-    public void imprimirInfosComuns();
+    void imprimirExtrato(Conta conta);
 }
