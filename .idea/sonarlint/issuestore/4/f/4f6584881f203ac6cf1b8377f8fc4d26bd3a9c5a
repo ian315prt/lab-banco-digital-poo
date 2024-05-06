@@ -1,4 +1,2 @@
 
-”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ô¾J$90932554-ae20-44b9-95df-e3764896a459
-s
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¶² Âñ1J$a4b0c19d-5d6f-4a40-8948-11bdddb6c75f
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ô¾J$9c845c3a-e443-4657-876d-dfa9c538f090
